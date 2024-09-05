@@ -29,3 +29,6 @@ Init takes num petals, num flowers, type of flower
 Creates a flower(s)
 
 Fun for different draw methods
+
+
+SCREENRECORDING: https://drive.google.com/file/d/1Pp0t5GkCSWctvAF9gp7UeWaqgT210mHj/view?usp=drive_link
